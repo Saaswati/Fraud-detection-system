@@ -1,6 +1,6 @@
-# Gemini Chatbot
 
-A modern web-based chatbot powered by Google's Gemini AI API.
+
+A modern web-based chatbot 
 
 ## Features
 
@@ -36,4 +36,5 @@ For security reasons, in a production environment, you should:
 - HTML5
 - CSS3
 - JavaScript (ES6+)
+
 - Google Gemini API 
